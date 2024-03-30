@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cristiano Ronaldo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Cristiano Ronaldo</h1>
+    <img src="ronaldo.jpg" alt="Cristiano Ronaldo">
+  </header>
+  <main>
+    <section class="qualities">
+      <h2>Admirable Qualities</h2>
+      <p>Cristiano Ronaldo is widely regarded as one of the greatest football players of all time. His remarkable qualities include:</p>
+      <ul>
+        <li>Exceptional skill and technique</li>
+        <li>Unmatched work ethic and dedication</li>
+        <li>Leadership on and off the field</li>
+        <li>Charitable contributions and philanthropy</li>
+        <li>Continuous pursuit of excellence</li>
+      </ul>
+    </section>
+    <section class="gallery">
+      <h2>Gallery</h2>
+      <div class="image-container">
+        <img src="ronaldo1.jpg" alt="Cristiano Ronaldo">
+        <img src="ronaldo2.jpg" alt="Cristiano Ronaldo">
+        <img src="ronaldo3.jpg" alt="Cristiano Ronaldo">
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>Created with admiration for Cristiano Ronaldo</p>
+  </footer>
+</body>
+</html>
